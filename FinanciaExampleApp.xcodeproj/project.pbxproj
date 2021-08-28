@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6DB637A426C6314100ADDDCB /* NumberEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB637A326C6314100ADDDCB /* NumberEntryViewController.swift */; };
 		6DBC4EF726C0F789007C525E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC4EF626C0F789007C525E /* AppDelegate.swift */; };
 		6DBC4EF926C0F78A007C525E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC4EF826C0F78A007C525E /* SceneDelegate.swift */; };
 		6DBC4EFB26C0F78A007C525E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC4EFA26C0F78A007C525E /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6DB637A326C6314100ADDDCB /* NumberEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberEntryViewController.swift; sourceTree = "<group>"; };
 		6DBC4EF326C0F789007C525E /* FinanciaExampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinanciaExampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DBC4EF626C0F789007C525E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DBC4EF826C0F78A007C525E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				6DBC4EF626C0F789007C525E /* AppDelegate.swift */,
 				6DBC4EF826C0F78A007C525E /* SceneDelegate.swift */,
 				6DBC4EFA26C0F78A007C525E /* ContentView.swift */,
+				6DB637A326C6314100ADDDCB /* NumberEntryViewController.swift */,
 				6DBC4EFC26C0F790007C525E /* Assets.xcassets */,
 				6DBC4F0126C0F790007C525E /* LaunchScreen.storyboard */,
 				6DBC4F0426C0F790007C525E /* Info.plist */,
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DB637A426C6314100ADDDCB /* NumberEntryViewController.swift in Sources */,
 				6DBC4EF726C0F789007C525E /* AppDelegate.swift in Sources */,
 				6DBC4EF926C0F78A007C525E /* SceneDelegate.swift in Sources */,
 				6DBC4EFB26C0F78A007C525E /* ContentView.swift in Sources */,
