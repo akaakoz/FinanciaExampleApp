@@ -5,8 +5,10 @@
 //  Created by Akiya Ozawa on R 3/08/08.
 //  Modified from develop
 
+
 import UIKit
 import SwiftUI
+import Foundation
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
